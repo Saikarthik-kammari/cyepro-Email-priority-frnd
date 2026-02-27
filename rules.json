@@ -1,0 +1,11 @@
+{
+  "now_keywords": [
+    "emergency", "urgently", "urgent", "critical", "now", "immediately", "otp", "deadline today", "meeting today", "emergency meeting", "today emergency", "urgent meeting"
+  ],
+  "later_keywords": [
+    "tomorrow", "follow up", "update", "reminder", "next week", "later"
+  ],
+  "never_keywords": [
+    "promo", "offer", "newsletter", "unsubscribe", "sales", "advertisement", "discount", "sale", "ajio", "flipkart", "50%", "% off", "finish setting up", "get started", "welcome"
+  ]
+}
